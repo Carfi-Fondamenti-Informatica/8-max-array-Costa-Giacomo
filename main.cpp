@@ -9,6 +9,7 @@ int main() {
         cin >> numeri[i];
     }
     numeromassimo(numeri, dim);
-        cout <<  numeromassimo(numeri, dimensione) << endl;
+    cout <<  numeromassimo(numeri, dim) << endl;
+    
     return 0;
 }
