@@ -1,1 +1,1 @@
-float maxnum (const float numeri [], int dim);
+float numeromassimo (const float numeri [], int dimensione);
