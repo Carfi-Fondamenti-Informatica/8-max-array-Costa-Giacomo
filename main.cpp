@@ -8,8 +8,8 @@ int main(){
   for(int i=0;i<dim;i++){
     cin>>numeri[i];
   }
-  numeroMassimo(numeri,dim);
-  cout<<numeroMassimo(numeri,dim)<<endl;
+  numeromassimo(numeri,dim);
+  cout<<numeromassimo(numeri,dim)<<endl;
   
   return 0;
 }
